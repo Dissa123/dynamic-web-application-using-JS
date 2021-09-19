@@ -1,0 +1,51 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300;140&display=swap'); */
+*{
+    font-family: 'Urbanist', sans-serif;
+}
+body{
+    width: 100%;
+}
+input.form-rounded{
+    border-radius: 1rem;
+}
+label.align{
+    position: relative;
+    left: 14px;
+}
+#text{
+    border: 0px solid #000;
+    box-sizing: border-box;
+    text-align: center;
+    width: 50%;
+    height: 40%;
+    padding: 10px;
+    background-color: #198754;
+    color: white;
+    border-radius: 15px; 
+}
+.container .mt5
+
+.row.col-6 form{
+    flex: 0 auto;
+    width: 50%;
+    margin-top: 45px;
+} 
+
+h1 .text-center{
+    background-color: #198754;
+}
+
+canvas.myChart{
+    width:600px;
+}
+
+    @media (min-width:1400px)
+    {
+        .row{
+            position: relative;
+            top: 20%;
+        } 
+        
+    }
+
+
